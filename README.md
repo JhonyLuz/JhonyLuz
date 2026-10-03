@@ -8,3 +8,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonyLuz&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true)
 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhonyLuz&theme=github)
