@@ -1,4 +1,13 @@
-### Oi sou o Jhon Light, desenvolvedor de sites
+
+# Olá, eu sou Jhony 👋
+
+## Minha atividade no GitHub
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 🔭 Estudando testes unitários e criação de componetes
   <div style="display: inline_block">
