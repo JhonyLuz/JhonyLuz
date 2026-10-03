@@ -7,5 +7,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonyLuz&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true)
 
-[![Gráfico de atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=JhonyLuz&theme=dracula)](https://github.com/JhonyLuz)
 
